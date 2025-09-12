@@ -6,6 +6,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "SMshnZSI#ZJuFUoEMt6RdlPc51D3YE3AXXMwCgJeFKzMWaNbRq_A", // ඔයාගෙ session id එක
-MONGODB: process.env.MONGODB || "mongodb://mongo:sjjkkd",  //ඔයාගෙ mongoDb url එක
+MONGODB: process.env.MONGODB || "mongodb://mongo:pBgtRIIYwOsgcTYsrAFHWlhuzUnPYyvJ@yamabiko.proxy.rlwy.net:14765",  //ඔයාගෙ mongoDb url එක
 };
  
